@@ -1,0 +1,31 @@
+{
+  "name": "amt",
+  "version": "0.1.0",
+  "main": "lib/node-amt.js",
+  "description": "Node API for Amazon Mechanical Turk",
+  "homepage": "https://github.com/Volox/amt",
+  "bugs": "https://github.com/Volox/amt/issues",
+  "author": {
+    "name": "Riccardo Volonterio",
+    "email": "voloxxx@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Volox/amt"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "dependencies": {
+    "async": "*",
+    "xml2js": "*",
+    "underscore": "*",
+    "request": "*"
+  }
+}

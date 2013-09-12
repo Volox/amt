@@ -1,0 +1,17 @@
+<QuestionForm xmlns="http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionForm.xsd">
+  <Overview>
+    <Title>Test</Title>
+    <Text>Test test</Text>
+  </Overview>
+  <Question>
+    <QuestionIdentifier>test</QuestionIdentifier>
+    <DisplayName>Test DisplayName</DisplayName>
+    <IsRequired>true</IsRequired>
+    <QuestionContent>
+      <Text>QuestionContent TExt</Text>
+    </QuestionContent>
+    <AnswerSpecification>
+      <FreeTextAnswer></FreeTextAnswer>
+    </AnswerSpecification>
+  </Question>
+</QuestionForm>  

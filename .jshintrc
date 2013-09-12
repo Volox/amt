@@ -1,0 +1,23 @@
+{
+  "bitwise": true,
+  "camelcase": true,
+  "eqeqeq": true,
+  "forin": false,
+  "immed": true,
+  "newcap": true,
+  "noarg": true,
+  "nonew": true,
+  "quotmark": "single",
+  "undef": true,
+  "unused": true,
+  "trailing": true,
+  "maxdepth": 3,
+
+  "debug": true,
+  "shadow": true,
+
+  "devel": true,
+  "node": true,
+  
+  "indent": 2
+}
