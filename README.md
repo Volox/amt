@@ -76,7 +76,7 @@ Static methods:
 
 # Examples
 
-See [test.js]()
+See [test.js](test/test.js)
 
 # License
 Copyright (c) 2013 Riccardo Volonterio. Licensed under the MIT license.
