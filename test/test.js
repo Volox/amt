@@ -72,7 +72,8 @@ describe( 'AMT test', function() {
     hit = new HIT( {
       hitType: hitType,
       question: questionXml,
-      life: 60*5 // 5 minutes
+      MaxAssignments: 5,
+      life: 60*5 // 5 minutes,
     } );
 
     hit.create( function ( err, hit, hitTypeId ) {
