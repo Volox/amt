@@ -1,6 +1,6 @@
 {
   "name": "amt",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "main": "lib/node-amt.js",
   "description": "Node API for Amazon Mechanical Turk",
   "homepage": "https://github.com/Volox/amt",
